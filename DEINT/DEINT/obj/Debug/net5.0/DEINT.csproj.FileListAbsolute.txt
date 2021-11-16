@@ -1,0 +1,16 @@
+/home/alumno/Documentos/DEINT/bin/Debug/net5.0/DEINT
+/home/alumno/Documentos/DEINT/bin/Debug/net5.0/DEINT.deps.json
+/home/alumno/Documentos/DEINT/bin/Debug/net5.0/DEINT.runtimeconfig.json
+/home/alumno/Documentos/DEINT/bin/Debug/net5.0/DEINT.runtimeconfig.dev.json
+/home/alumno/Documentos/DEINT/bin/Debug/net5.0/DEINT.dll
+/home/alumno/Documentos/DEINT/bin/Debug/net5.0/ref/DEINT.dll
+/home/alumno/Documentos/DEINT/bin/Debug/net5.0/DEINT.pdb
+/home/alumno/Documentos/DEINT/obj/Debug/net5.0/DEINT.csproj.AssemblyReference.cache
+/home/alumno/Documentos/DEINT/obj/Debug/net5.0/DEINT.GeneratedMSBuildEditorConfig.editorconfig
+/home/alumno/Documentos/DEINT/obj/Debug/net5.0/DEINT.AssemblyInfoInputs.cache
+/home/alumno/Documentos/DEINT/obj/Debug/net5.0/DEINT.AssemblyInfo.cs
+/home/alumno/Documentos/DEINT/obj/Debug/net5.0/DEINT.csproj.CoreCompileInputs.cache
+/home/alumno/Documentos/DEINT/obj/Debug/net5.0/DEINT.dll
+/home/alumno/Documentos/DEINT/obj/Debug/net5.0/ref/DEINT.dll
+/home/alumno/Documentos/DEINT/obj/Debug/net5.0/DEINT.pdb
+/home/alumno/Documentos/DEINT/obj/Debug/net5.0/DEINT.genruntimeconfig.cache
