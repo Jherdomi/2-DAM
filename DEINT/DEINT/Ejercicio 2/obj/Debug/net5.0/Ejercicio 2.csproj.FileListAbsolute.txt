@@ -1,0 +1,16 @@
+/home/alumno/Documentos/Ejercicio 2/obj/Debug/net5.0/Ejercicio 2.csproj.AssemblyReference.cache
+/home/alumno/Documentos/Ejercicio 2/obj/Debug/net5.0/Ejercicio 2.GeneratedMSBuildEditorConfig.editorconfig
+/home/alumno/Documentos/Ejercicio 2/obj/Debug/net5.0/Ejercicio 2.AssemblyInfoInputs.cache
+/home/alumno/Documentos/Ejercicio 2/obj/Debug/net5.0/Ejercicio 2.AssemblyInfo.cs
+/home/alumno/Documentos/Ejercicio 2/obj/Debug/net5.0/Ejercicio 2.csproj.CoreCompileInputs.cache
+/home/alumno/Documentos/Ejercicio 2/bin/Debug/net5.0/Ejercicio 2
+/home/alumno/Documentos/Ejercicio 2/bin/Debug/net5.0/Ejercicio 2.deps.json
+/home/alumno/Documentos/Ejercicio 2/bin/Debug/net5.0/Ejercicio 2.runtimeconfig.json
+/home/alumno/Documentos/Ejercicio 2/bin/Debug/net5.0/Ejercicio 2.runtimeconfig.dev.json
+/home/alumno/Documentos/Ejercicio 2/bin/Debug/net5.0/Ejercicio 2.dll
+/home/alumno/Documentos/Ejercicio 2/bin/Debug/net5.0/ref/Ejercicio 2.dll
+/home/alumno/Documentos/Ejercicio 2/bin/Debug/net5.0/Ejercicio 2.pdb
+/home/alumno/Documentos/Ejercicio 2/obj/Debug/net5.0/Ejercicio 2.dll
+/home/alumno/Documentos/Ejercicio 2/obj/Debug/net5.0/ref/Ejercicio 2.dll
+/home/alumno/Documentos/Ejercicio 2/obj/Debug/net5.0/Ejercicio 2.pdb
+/home/alumno/Documentos/Ejercicio 2/obj/Debug/net5.0/Ejercicio 2.genruntimeconfig.cache

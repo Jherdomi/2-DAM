@@ -1,0 +1,16 @@
+/home/alumno/Documentos/Ej1/obj/Debug/net5.0/Ej1.csproj.AssemblyReference.cache
+/home/alumno/Documentos/Ej1/obj/Debug/net5.0/Ej1.GeneratedMSBuildEditorConfig.editorconfig
+/home/alumno/Documentos/Ej1/obj/Debug/net5.0/Ej1.AssemblyInfoInputs.cache
+/home/alumno/Documentos/Ej1/obj/Debug/net5.0/Ej1.AssemblyInfo.cs
+/home/alumno/Documentos/Ej1/obj/Debug/net5.0/Ej1.csproj.CoreCompileInputs.cache
+/home/alumno/Documentos/Ej1/bin/Debug/net5.0/Ej1
+/home/alumno/Documentos/Ej1/bin/Debug/net5.0/Ej1.deps.json
+/home/alumno/Documentos/Ej1/bin/Debug/net5.0/Ej1.runtimeconfig.json
+/home/alumno/Documentos/Ej1/bin/Debug/net5.0/Ej1.runtimeconfig.dev.json
+/home/alumno/Documentos/Ej1/bin/Debug/net5.0/Ej1.dll
+/home/alumno/Documentos/Ej1/bin/Debug/net5.0/ref/Ej1.dll
+/home/alumno/Documentos/Ej1/bin/Debug/net5.0/Ej1.pdb
+/home/alumno/Documentos/Ej1/obj/Debug/net5.0/Ej1.dll
+/home/alumno/Documentos/Ej1/obj/Debug/net5.0/ref/Ej1.dll
+/home/alumno/Documentos/Ej1/obj/Debug/net5.0/Ej1.pdb
+/home/alumno/Documentos/Ej1/obj/Debug/net5.0/Ej1.genruntimeconfig.cache

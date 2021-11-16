@@ -1,0 +1,16 @@
+/home/alumno/Documentos/DEINT/EJERCICIO 5.11.1/obj/Debug/net5.0/EJERCICIO 5.11.1.csproj.AssemblyReference.cache
+/home/alumno/Documentos/DEINT/EJERCICIO 5.11.1/obj/Debug/net5.0/EJERCICIO 5.11.1.GeneratedMSBuildEditorConfig.editorconfig
+/home/alumno/Documentos/DEINT/EJERCICIO 5.11.1/obj/Debug/net5.0/EJERCICIO 5.11.1.AssemblyInfoInputs.cache
+/home/alumno/Documentos/DEINT/EJERCICIO 5.11.1/obj/Debug/net5.0/EJERCICIO 5.11.1.AssemblyInfo.cs
+/home/alumno/Documentos/DEINT/EJERCICIO 5.11.1/obj/Debug/net5.0/EJERCICIO 5.11.1.csproj.CoreCompileInputs.cache
+/home/alumno/Documentos/DEINT/EJERCICIO 5.11.1/bin/Debug/net5.0/EJERCICIO 5.11.1
+/home/alumno/Documentos/DEINT/EJERCICIO 5.11.1/bin/Debug/net5.0/EJERCICIO 5.11.1.deps.json
+/home/alumno/Documentos/DEINT/EJERCICIO 5.11.1/bin/Debug/net5.0/EJERCICIO 5.11.1.runtimeconfig.json
+/home/alumno/Documentos/DEINT/EJERCICIO 5.11.1/bin/Debug/net5.0/EJERCICIO 5.11.1.runtimeconfig.dev.json
+/home/alumno/Documentos/DEINT/EJERCICIO 5.11.1/bin/Debug/net5.0/EJERCICIO 5.11.1.dll
+/home/alumno/Documentos/DEINT/EJERCICIO 5.11.1/bin/Debug/net5.0/ref/EJERCICIO 5.11.1.dll
+/home/alumno/Documentos/DEINT/EJERCICIO 5.11.1/bin/Debug/net5.0/EJERCICIO 5.11.1.pdb
+/home/alumno/Documentos/DEINT/EJERCICIO 5.11.1/obj/Debug/net5.0/EJERCICIO 5.11.1.dll
+/home/alumno/Documentos/DEINT/EJERCICIO 5.11.1/obj/Debug/net5.0/ref/EJERCICIO 5.11.1.dll
+/home/alumno/Documentos/DEINT/EJERCICIO 5.11.1/obj/Debug/net5.0/EJERCICIO 5.11.1.pdb
+/home/alumno/Documentos/DEINT/EJERCICIO 5.11.1/obj/Debug/net5.0/EJERCICIO 5.11.1.genruntimeconfig.cache
