@@ -1,0 +1,32 @@
+/home/alumno/Documentos/DEINT/Ejercicio3/obj/Debug/net5.0/Ejercicio3.csproj.AssemblyReference.cache
+/home/alumno/Documentos/DEINT/Ejercicio3/obj/Debug/net5.0/Ejercicio3.GeneratedMSBuildEditorConfig.editorconfig
+/home/alumno/Documentos/DEINT/Ejercicio3/obj/Debug/net5.0/Ejercicio3.AssemblyInfoInputs.cache
+/home/alumno/Documentos/DEINT/Ejercicio3/obj/Debug/net5.0/Ejercicio3.AssemblyInfo.cs
+/home/alumno/Documentos/DEINT/Ejercicio3/obj/Debug/net5.0/Ejercicio3.csproj.CoreCompileInputs.cache
+/home/alumno/Documentos/DEINT/Ejercicio3/bin/Debug/net5.0/Ejercicio3
+/home/alumno/Documentos/DEINT/Ejercicio3/bin/Debug/net5.0/Ejercicio3.deps.json
+/home/alumno/Documentos/DEINT/Ejercicio3/bin/Debug/net5.0/Ejercicio3.runtimeconfig.json
+/home/alumno/Documentos/DEINT/Ejercicio3/bin/Debug/net5.0/Ejercicio3.runtimeconfig.dev.json
+/home/alumno/Documentos/DEINT/Ejercicio3/bin/Debug/net5.0/Ejercicio3.dll
+/home/alumno/Documentos/DEINT/Ejercicio3/bin/Debug/net5.0/ref/Ejercicio3.dll
+/home/alumno/Documentos/DEINT/Ejercicio3/bin/Debug/net5.0/Ejercicio3.pdb
+/home/alumno/Documentos/DEINT/Ejercicio3/obj/Debug/net5.0/Ejercicio3.dll
+/home/alumno/Documentos/DEINT/Ejercicio3/obj/Debug/net5.0/ref/Ejercicio3.dll
+/home/alumno/Documentos/DEINT/Ejercicio3/obj/Debug/net5.0/Ejercicio3.pdb
+/home/alumno/Documentos/DEINT/Ejercicio3/obj/Debug/net5.0/Ejercicio3.genruntimeconfig.cache
+/home/alumno/Documentos/DEINT/Ejercicios C#/Ejercicio3/bin/Debug/net5.0/Ejercicio3
+/home/alumno/Documentos/DEINT/Ejercicios C#/Ejercicio3/bin/Debug/net5.0/Ejercicio3.deps.json
+/home/alumno/Documentos/DEINT/Ejercicios C#/Ejercicio3/bin/Debug/net5.0/Ejercicio3.runtimeconfig.json
+/home/alumno/Documentos/DEINT/Ejercicios C#/Ejercicio3/bin/Debug/net5.0/Ejercicio3.runtimeconfig.dev.json
+/home/alumno/Documentos/DEINT/Ejercicios C#/Ejercicio3/bin/Debug/net5.0/Ejercicio3.dll
+/home/alumno/Documentos/DEINT/Ejercicios C#/Ejercicio3/bin/Debug/net5.0/ref/Ejercicio3.dll
+/home/alumno/Documentos/DEINT/Ejercicios C#/Ejercicio3/bin/Debug/net5.0/Ejercicio3.pdb
+/home/alumno/Documentos/DEINT/Ejercicios C#/Ejercicio3/obj/Debug/net5.0/Ejercicio3.csproj.AssemblyReference.cache
+/home/alumno/Documentos/DEINT/Ejercicios C#/Ejercicio3/obj/Debug/net5.0/Ejercicio3.GeneratedMSBuildEditorConfig.editorconfig
+/home/alumno/Documentos/DEINT/Ejercicios C#/Ejercicio3/obj/Debug/net5.0/Ejercicio3.AssemblyInfoInputs.cache
+/home/alumno/Documentos/DEINT/Ejercicios C#/Ejercicio3/obj/Debug/net5.0/Ejercicio3.AssemblyInfo.cs
+/home/alumno/Documentos/DEINT/Ejercicios C#/Ejercicio3/obj/Debug/net5.0/Ejercicio3.csproj.CoreCompileInputs.cache
+/home/alumno/Documentos/DEINT/Ejercicios C#/Ejercicio3/obj/Debug/net5.0/Ejercicio3.dll
+/home/alumno/Documentos/DEINT/Ejercicios C#/Ejercicio3/obj/Debug/net5.0/ref/Ejercicio3.dll
+/home/alumno/Documentos/DEINT/Ejercicios C#/Ejercicio3/obj/Debug/net5.0/Ejercicio3.pdb
+/home/alumno/Documentos/DEINT/Ejercicios C#/Ejercicio3/obj/Debug/net5.0/Ejercicio3.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+/home/alumno/Documentos/DEINT/Ejercicios C#/Ejercicio4/bin/Debug/net5.0/Ejercicio4
+/home/alumno/Documentos/DEINT/Ejercicios C#/Ejercicio4/bin/Debug/net5.0/Ejercicio4.deps.json
+/home/alumno/Documentos/DEINT/Ejercicios C#/Ejercicio4/bin/Debug/net5.0/Ejercicio4.runtimeconfig.json
+/home/alumno/Documentos/DEINT/Ejercicios C#/Ejercicio4/bin/Debug/net5.0/Ejercicio4.runtimeconfig.dev.json
+/home/alumno/Documentos/DEINT/Ejercicios C#/Ejercicio4/bin/Debug/net5.0/Ejercicio4.dll
+/home/alumno/Documentos/DEINT/Ejercicios C#/Ejercicio4/bin/Debug/net5.0/ref/Ejercicio4.dll
+/home/alumno/Documentos/DEINT/Ejercicios C#/Ejercicio4/bin/Debug/net5.0/Ejercicio4.pdb
+/home/alumno/Documentos/DEINT/Ejercicios C#/Ejercicio4/obj/Debug/net5.0/Ejercicio4.csproj.AssemblyReference.cache
+/home/alumno/Documentos/DEINT/Ejercicios C#/Ejercicio4/obj/Debug/net5.0/Ejercicio4.GeneratedMSBuildEditorConfig.editorconfig
+/home/alumno/Documentos/DEINT/Ejercicios C#/Ejercicio4/obj/Debug/net5.0/Ejercicio4.AssemblyInfoInputs.cache
+/home/alumno/Documentos/DEINT/Ejercicios C#/Ejercicio4/obj/Debug/net5.0/Ejercicio4.AssemblyInfo.cs
+/home/alumno/Documentos/DEINT/Ejercicios C#/Ejercicio4/obj/Debug/net5.0/Ejercicio4.csproj.CoreCompileInputs.cache
+/home/alumno/Documentos/DEINT/Ejercicios C#/Ejercicio4/obj/Debug/net5.0/Ejercicio4.dll
+/home/alumno/Documentos/DEINT/Ejercicios C#/Ejercicio4/obj/Debug/net5.0/ref/Ejercicio4.dll
+/home/alumno/Documentos/DEINT/Ejercicios C#/Ejercicio4/obj/Debug/net5.0/Ejercicio4.pdb
+/home/alumno/Documentos/DEINT/Ejercicios C#/Ejercicio4/obj/Debug/net5.0/Ejercicio4.genruntimeconfig.cache
