@@ -1,0 +1,37 @@
+/home/alumno/Documentos/DEINT/EJERCICIOS C#/obj/Debug/net5.0/EJERCICIOS C#.csproj.AssemblyReference.cache
+/home/alumno/Documentos/DEINT/EJERCICIOS C#/obj/Debug/net5.0/EJERCICIOS C#.GeneratedMSBuildEditorConfig.editorconfig
+/home/alumno/Documentos/DEINT/EJERCICIOS C#/obj/Debug/net5.0/EJERCICIOS C#.AssemblyInfoInputs.cache
+/home/alumno/Documentos/DEINT/EJERCICIOS C#/obj/Debug/net5.0/EJERCICIOS C#.AssemblyInfo.cs
+/home/alumno/Documentos/DEINT/EJERCICIOS C#/obj/Debug/net5.0/EJERCICIOS C#.csproj.CoreCompileInputs.cache
+/home/alumno/Documentos/DEINT/EJERCICIOSC#/obj/Debug/net5.0/EJERCICIOS C#.csproj.AssemblyReference.cache
+/home/alumno/Documentos/DEINT/EJERCICIOSC#/obj/Debug/net5.0/EJERCICIOS C#.GeneratedMSBuildEditorConfig.editorconfig
+/home/alumno/Documentos/DEINT/EJERCICIOSC#/obj/Debug/net5.0/EJERCICIOS C#.AssemblyInfoInputs.cache
+/home/alumno/Documentos/DEINT/EJERCICIOSC#/obj/Debug/net5.0/EJERCICIOS C#.AssemblyInfo.cs
+/home/alumno/Documentos/DEINT/EJERCICIOSC#/obj/Debug/net5.0/EJERCICIOS C#.csproj.CoreCompileInputs.cache
+/home/alumno/Documentos/DEINT/EJERCICIOSC#/bin/Debug/net5.0/EJERCICIOS C#
+/home/alumno/Documentos/DEINT/EJERCICIOSC#/bin/Debug/net5.0/EJERCICIOS C#.deps.json
+/home/alumno/Documentos/DEINT/EJERCICIOSC#/bin/Debug/net5.0/EJERCICIOS C#.runtimeconfig.json
+/home/alumno/Documentos/DEINT/EJERCICIOSC#/bin/Debug/net5.0/EJERCICIOS C#.runtimeconfig.dev.json
+/home/alumno/Documentos/DEINT/EJERCICIOSC#/bin/Debug/net5.0/EJERCICIOS C#.dll
+/home/alumno/Documentos/DEINT/EJERCICIOSC#/bin/Debug/net5.0/ref/EJERCICIOS C#.dll
+/home/alumno/Documentos/DEINT/EJERCICIOSC#/bin/Debug/net5.0/EJERCICIOS C#.pdb
+/home/alumno/Documentos/DEINT/EJERCICIOSC#/obj/Debug/net5.0/EJERCICIOS C#.dll
+/home/alumno/Documentos/DEINT/EJERCICIOSC#/obj/Debug/net5.0/ref/EJERCICIOS C#.dll
+/home/alumno/Documentos/DEINT/EJERCICIOSC#/obj/Debug/net5.0/EJERCICIOS C#.pdb
+/home/alumno/Documentos/DEINT/EJERCICIOSC#/obj/Debug/net5.0/EJERCICIOS C#.genruntimeconfig.cache
+/home/alumno/Documentos/DEINT/Ejercicios C#/Eercicio1/bin/Debug/net5.0/EJERCICIOS C#
+/home/alumno/Documentos/DEINT/Ejercicios C#/Eercicio1/bin/Debug/net5.0/EJERCICIOS C#.deps.json
+/home/alumno/Documentos/DEINT/Ejercicios C#/Eercicio1/bin/Debug/net5.0/EJERCICIOS C#.runtimeconfig.json
+/home/alumno/Documentos/DEINT/Ejercicios C#/Eercicio1/bin/Debug/net5.0/EJERCICIOS C#.runtimeconfig.dev.json
+/home/alumno/Documentos/DEINT/Ejercicios C#/Eercicio1/bin/Debug/net5.0/EJERCICIOS C#.dll
+/home/alumno/Documentos/DEINT/Ejercicios C#/Eercicio1/bin/Debug/net5.0/ref/EJERCICIOS C#.dll
+/home/alumno/Documentos/DEINT/Ejercicios C#/Eercicio1/bin/Debug/net5.0/EJERCICIOS C#.pdb
+/home/alumno/Documentos/DEINT/Ejercicios C#/Eercicio1/obj/Debug/net5.0/EJERCICIOS C#.csproj.AssemblyReference.cache
+/home/alumno/Documentos/DEINT/Ejercicios C#/Eercicio1/obj/Debug/net5.0/EJERCICIOS C#.GeneratedMSBuildEditorConfig.editorconfig
+/home/alumno/Documentos/DEINT/Ejercicios C#/Eercicio1/obj/Debug/net5.0/EJERCICIOS C#.AssemblyInfoInputs.cache
+/home/alumno/Documentos/DEINT/Ejercicios C#/Eercicio1/obj/Debug/net5.0/EJERCICIOS C#.AssemblyInfo.cs
+/home/alumno/Documentos/DEINT/Ejercicios C#/Eercicio1/obj/Debug/net5.0/EJERCICIOS C#.csproj.CoreCompileInputs.cache
+/home/alumno/Documentos/DEINT/Ejercicios C#/Eercicio1/obj/Debug/net5.0/EJERCICIOS C#.dll
+/home/alumno/Documentos/DEINT/Ejercicios C#/Eercicio1/obj/Debug/net5.0/ref/EJERCICIOS C#.dll
+/home/alumno/Documentos/DEINT/Ejercicios C#/Eercicio1/obj/Debug/net5.0/EJERCICIOS C#.pdb
+/home/alumno/Documentos/DEINT/Ejercicios C#/Eercicio1/obj/Debug/net5.0/EJERCICIOS C#.genruntimeconfig.cache
