@@ -1,0 +1,5 @@
+Ejemplo de ayuda para trabajar con la base de datos dada.
+
+pero la BDs, el usuario y la contraseña es "empresa" (ver ConexionDB).
+
+Es un proyecto para Netbeans 8.2 y JDK 1.8
