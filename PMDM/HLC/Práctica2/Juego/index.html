@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Juego</title>
+    <link rel="icon" href="Img/icon.svg">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="script.js"></script>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+	<nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top border-bottom">
+        <div class="container-fluid">
+            <button class="navbar-toggler"
+                    type="button"
+                    data-bs-toggle="collapse"
+                    data-bs-target="#MenuNavegacion"
+                    aria-controls="#MenuNavegacion"
+                    aria-expanded="false"
+                    aria-label="Toogle navegacion">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse bg-dark" id="MenuNavegacion">
+                <ul class="navbar-nav ms-auto">
+                    
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">
+                            Enlaces externos
+                        </a>
+                        <ul class="dropdown-menu bg-light">
+                            <li><a class="dropdown-item text-dark" href="../jQuery/jquery.html">jQuery</a></li>
+                            <li><a class="dropdown-item text-dark" href="../Bootstrap/index.html">Bootstrap</a></li>
+							<li><a class="dropdown-item text-dark" href="../Frameworks/index.html">Frameworks</a></li>
+                        </ul>
+                    </li>
+
+                </ul>
+            </div>
+        </div>
+    </nav>
+	</br>
+
+    <div class="container">
+		<div id="pantalla-inicio">
+			<h1>JUEGO <br> DE <br> MEMORIA</h1>
+			<img src="img/imagen.png">
+			<button class="boton" onclick="jugar()">JUGAR</button>
+		</div>
+
+		<div id="pantalla-juego">
+			<h1 id="texto">MEMORIZA LA SECUENCIA</h1>
+			<h2 id="resultado"> </h2>
+			<div class="fila">
+				<span class="num" onclick="comparar(this)">0</span>
+				<span class="num" onclick="comparar(this)">1</span>
+				<span class="num" onclick="comparar(this)">2</span>
+			</div>
+			<div class="fila">
+				<span class="num" onclick="comparar(this)">3</span>
+				<span class="num" onclick="comparar(this)">4</span>
+				<span class="num" onclick="comparar(this)">5</span>
+			</div>
+			<div class="fila">
+				<span class="num" onclick="comparar(this)">6</span>
+				<span class="num" onclick="comparar(this)">7</span>
+				<span class="num" onclick="comparar(this)">8</span>
+			</div>
+			<div class="fila">
+				<span class="num" onclick="comparar(this)">9</span>
+			</div>		
+		</div>
+		
+		<div id="pantalla-fin">
+			<p>Lograste memorizar <span id="digitos"> 8 </span>dígitos</p>
+			<button class="boton" onclick="jugar()"> JUGAR DE NUEVO</button>
+		</div>
+	</div>
+	<script src="script.js"></script>
+</body>
+</html>

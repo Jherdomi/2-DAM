@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Tokyo+Zoo&display=swap');
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html{
+	background: linear-gradient(to top, #123f92, #0a83e2);}
+
+body{
+	background: linear-gradient(to top, #123f92, #0a83e2);}
+
+.container{
+	max-width: 600px;
+	margin: auto;
+	height: 100vh;
+	background: linear-gradient(to top, #123f92, #0a83e2);
+	color: white;
+	text-align: center;
+	padding: 20px;
+}
+
+/* PANTALLA INICIO */
+#pantalla-inicio{
+	display: block;
+}
+
+#pantalla-inicio h1{
+	font-size: 50px;
+	margin-top: 50px;
+	font-family: 'Zen Tokyo Zoo';
+	font-weight: normal;
+	animation: efectoTitulo .5s linear forwards;
+}
+
+#pantalla-inicio img{
+	width: 250px;
+}
+
+.boton{
+	display: block;
+	margin: 50px auto;
+	border: none;
+	border-radius: 50px;
+	background-color: black;
+	padding: 10px 30px;
+	color: white;
+	font-size: 30px;
+	cursor: pointer;
+	transition: .5s;
+}
+
+.boton:hover{
+	transform: scale(1.1);
+}
+
+/* PANTALLA JUEGO */
+#pantalla-juego{
+	display: none;
+}
+
+#pantalla-juego h1{
+	padding: 20px 0;
+	background: #9c0055;
+	opacity: 0;
+	animation: efectoTitulo .5s linear forwards;
+}
+
+@keyframes efectoTitulo{
+	0%{
+		opacity: 0;
+		transform: scale(.5);
+	}
+	100%{
+		opacity: 1;
+		transform: scale(1);
+	}
+}
+
+#pantalla-juego h2{
+	height: 80px;
+	font-size: 50px;
+	opacity: 0;
+	animation:  efectoTitulo .5s linear forwards;
+}
+
+#pantalla-juego .fila{
+	margin: 10px 0;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+}
+
+#pantalla-juego .num{
+	display: inline-block;
+	width: 150px;
+	height: 150px;
+	border-radius: 10px;
+	background: transparent;
+	font-size: 80px;
+	border: 2px solid white;
+	padding: 20px 0;
+	margin: 0 10px;
+	cursor: pointer;
+}
+
+#pantalla-juego .num:active{
+	background-color: black;;
+}
+
+#pantalla-juego .show{
+	animation: show .7s;
+}
+@keyframes show{
+	0%{
+		background: transparent;
+	}
+	50%{
+		background: black;
+	}
+	100%{
+		background: transparent;
+	}
+}
+
+/* PANTALLA FIN */
+#pantalla-fin{
+	display: none;
+}
+
+#pantalla-fin p{
+	margin-top: 50px;
+	font-size: 30px;
+}
+#pantalla-fin p span{
+	display: block;
+	font-size: 45px;
+	font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
