@@ -1,0 +1,135 @@
+
+
+body{
+    background-image: url("../fotos/background.jpg");
+    text-align: center;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+
+a{
+    color: white;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    padding: 10px;
+}
+
+h1 {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button {
+    width: 100px;
+    display: block;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer {
+    margin-top: auto;
+    background: gray;
+    border: 5px solid black;
+}
+
+input[type=submit] {
+    background-color: lightslategray;
+    border: 2px solid lightslategray;
+    opacity: 75%;
+    border-radius:5%;
+    padding:5px;
+}
+
+button {
+    background-color: lightslategray;
+    border: 2px solid lightslategray;
+    margin: 50px;
+    opacity: 75%;
+    border-radius:5%;
+    padding:5px;
+}
+
+
+table {
+    border-collapse: initial;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    margin: auto;
+}
+
+thead tr {
+    background-color: lightslategray;
+    color: #ffffff;
+    text-align: center;
+}
+
+th, td {
+    padding: 12px 15px;
+}
+tbody tr:first-of-type {
+    
+}
+tbody tr {
+    border-bottom: 1px solid #dddddd;
+    color: #666666;
+    background-color:#dddddd;
+}
+
+tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+
+tbody tr:last-of-type {
+    border-bottom: 2px solid #009879;
+}
+
+tbody tr:hover {
+    color: red;
+    font-weight: bold;
+}
+
+article{
+    width: 100px;
+    height: 100px;
+    background-color: lightslategray;
+    border: 2px solid lightblue;
+    opacity: 75%;
+}
+.espacio {
+    padding-left: 20px;
+}
+
+.list {
+    display:flex;
+    flex-wrap: wrap;
+}
+
+
+.option {
+    font-size:large;
+    padding-left:30px;
+    padding-right:100px;
+    margin: auto;
+}
+
+@media screen and (max-width: 1000px){
+    .cartas-espana{
+        width: 100%
+    }
+}

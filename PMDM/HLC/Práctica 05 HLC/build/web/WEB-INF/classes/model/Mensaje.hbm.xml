@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<!-- Generated 01-mar-2023 14:15:12 by Hibernate Tools 4.3.1 -->
+<hibernate-mapping>
+  <class name="model.Mensaje" optimistic-lock="version" schema="JAVA22" table="MENSAJE">
+    <id name="numero" type="int">
+      <column name="NUMERO"/>
+      <generator class="assigned"/>
+    </id>
+    <property name="asunto" type="string">
+      <column length="20" name="ASUNTO"/>
+    </property>
+    <property name="contenido" type="string">
+      <column length="100" name="CONTENIDO"/>
+    </property>
+    <property name="leido" type="java.lang.Integer">
+      <column name="LEIDO"/>
+    </property>
+    <property name="fecha" type="date">
+      <column length="10" name="FECHA"/>
+    </property>
+    <property name="cuecodigoorigen" type="java.lang.Integer">
+      <column name="CUECODIGOORIGEN"/>
+    </property>
+    <property name="cuecodigodestino" type="java.lang.Integer">
+      <column name="CUECODIGODESTINO"/>
+    </property>
+  </class>
+</hibernate-mapping>

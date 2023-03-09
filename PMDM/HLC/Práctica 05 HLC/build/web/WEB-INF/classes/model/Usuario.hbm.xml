@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<!-- Generated 01-mar-2023 14:15:12 by Hibernate Tools 4.3.1 -->
+<hibernate-mapping>
+  <class name="model.Usuario" optimistic-lock="version" schema="JAVA22" table="USUARIO">
+    <id name="numero" type="int">
+      <column name="NUMERO"/>
+      <generator class="assigned"/>
+    </id>
+    <property name="nombre" type="string">
+      <column length="20" name="NOMBRE"/>
+    </property>
+    <property name="apellido" type="string">
+      <column length="20" name="APELLIDO"/>
+    </property>
+    <property name="password" type="string">
+      <column length="20" name="PASSWORD"/>
+    </property>
+    <property name="fechanacimiento" type="date">
+      <column length="10" name="FECHANACIMIENTO"/>
+    </property>
+    <property name="foto" type="string">
+      <column length="20" name="FOTO"/>
+    </property>
+  </class>
+</hibernate-mapping>
